@@ -1,5 +1,6 @@
 <!-- ix-docs-ignore -->
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fjekyll-imgix.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fjekyll-imgix?ref=badge_shield)
 
 `jekyll-imgix` is a plugin for integrating [imgix](https://www.imgix.com) into Jekyll sites.
 
@@ -119,3 +120,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/imgix/
 
 ## Code of Conduct
 Users contributing to or participating in the development of this project are subject to the terms of imgix's [Code of Conduct](https://github.com/imgix/code-of-conduct).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fjekyll-imgix.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fjekyll-imgix?ref=badge_large)
